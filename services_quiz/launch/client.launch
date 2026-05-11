@@ -1,0 +1,9 @@
+<launch>
+    <node
+        pkg="services_quiz"
+        type="Client_Move_Robot.py"
+        name="service_move_robot"
+        output="screen"
+    />
+</launch>
+   
