@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="topic_quiz_redo" type="topics.py" name="Cristinei" output="screen">
+    </node>
+</launch>
